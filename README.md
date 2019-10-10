@@ -20,5 +20,5 @@ packer build \
 or 
 
 ```
-packer build -var-file=./ami.vars ubuntu-ami.json
+packer build -var-file=./ami-vars.json ubuntu-ami.json
 ```
